@@ -1,6 +1,6 @@
 # Instrucciones
 
-Este repositorio contiene una instalación limpia de Symfony 5, extensiones para la BBDD, Xdebug para realizar trazas y alguna más para tratar con imágenes.
+Este repositorio contiene una instalación limpia de Symfony 6, extensiones para la BBDD, Xdebug para realizar trazas y alguna más para tratar con imágenes.
 
 Igualmente tiene composer instalado y el instalador de symfony.
 
